@@ -1,4 +1,4 @@
-# wcc-v2
+# wcc-v3
 > This is the second iteration of my personal site built with [Next.js](https://nextjs.org/).
 
 ## Still in Progess
