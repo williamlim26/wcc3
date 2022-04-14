@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>William&#39;s Site</title>
+        <title>William&#39;s Site 5</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       </Head>
       {/* <Calculator /> */}
