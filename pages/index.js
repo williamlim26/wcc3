@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>William's Site</title>
+        <title>William's Site 2</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
         <link href="/dist/output.css" rel="stylesheet" />
       </Head>
