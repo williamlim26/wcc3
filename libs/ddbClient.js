@@ -19,8 +19,8 @@ const REGION = "us-east-1"; //e.g. "us-east-1"
 // Create an Amazon DynamoDB service client object.
 const ddbClient = new DynamoDBClient({
   credentials: {
-    accessKeyId: 'AKIAW26E6BKBVOZGLWIZ',
-    secretAccessKey: 'ZjOUo+vhkSijQb42YAbnLql41mu8h5TXHokZ9fcz',
+    accessKeyId: process.env.DB_ACCESS_KEY_ID,
+    secretAccessKey: process.env.DB_SECRET_ACCESS_KEY,
   },
   region: REGION
 });
